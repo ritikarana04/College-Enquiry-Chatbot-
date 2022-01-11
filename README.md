@@ -1,6 +1,7 @@
 [Project Synopsis.docx](https://github.com/ritikarana04/College-Enquiry-Chatbot-/files/7844658/Project.Synopsis.docx)
 [19BCA1126_2nd Report (College_Enquiry_Chatbot).pdf](https://github.com/ritikarana04/College-Enquiry-Chatbot-/files/7844665/19BCA1126_2nd.Report.College_Enquiry_Chatbot.1.1.pdf)
 [Final_Report_19BCA1126.pdf](https://github.com/ritikarana04/College-Enquiry-Chatbot-/files/7844667/Final_Report_19BCA1126.pdf)
+
 software - College Management Software
 ====================================
 
